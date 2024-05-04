@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [shivam.games](shivam.games)
+- 👨‍💻 All of my projects are available at [https://shivamdwivedi1999.github.io/My_Portfolio/](https://shivamdwivedi1999.github.io/My_Portfolio/)
 
 - 📫 How to reach me **shivamd018@gmail.com**
 
